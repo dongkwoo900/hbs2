@@ -16,7 +16,7 @@
 <title>Insert title here</title>
 <style>
 	#wrap{
-		width:1250px;	margin:auto;
+		width:1255px;	margin:auto;
 	}
 	header{
 		height:344px;	
